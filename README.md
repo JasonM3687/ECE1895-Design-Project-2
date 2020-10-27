@@ -8,5 +8,6 @@ Group members:
   
 Repository Contents:
   * Pseudocode_V1.0
+  * BOM_V1.0
   
 Proposal Link: https://zachkubitz.github.io/github-slideshow/
