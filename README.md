@@ -7,7 +7,7 @@ Group members:
   * Joseph Tonecha
   
 Repository Contents:
-  * Pseudocode_V1.0
+  * Pseudocode_V1
   * BOM_V1.0
   
 Proposal Link: https://zachkubitz.github.io/github-slideshow/
