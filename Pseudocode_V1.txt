@@ -1,0 +1,115 @@
+//Psuedocode for "Type-It"
+//-------------Functions-----------------//
+-playIntro()
+	-Input audio files of "Welcome to Type-It" and "New Game"
+	-Play audio through speaker
+-end playIntro()
+
+-commandGenerate()
+	-Assign each of the input commands to a different number 1-3
+	-Use a random number generator to pick a number 1-3
+	-Call the commandStart function whose corresponding number was randomly selected
+-end commandGenerate()
+
+-keyPadStart()
+	-Input audio file of 5 premade 3 digit codes and "Type-It"
+	-Use random number generator to select one of the codes
+	-Play command through speaker
+	-Play code through speaker
+-end keyPadStart() 
+
+-twistStart()
+	-get current angle of potentiometer and store in a variable
+	-Input audio file of "Twist-it"
+	-Play through speaker
+-end twistStart()
+
+-bopStart()
+	-Input audio file of "Bop-It"
+	-Play through speaker
+-end bopStart()
+
+-bool checkInput(int commandNum)
+	-declare inputCount variable that tracks number of user inputs
+	-declare correctInput variable that tracks correct input
+	//Checking "Type-It"
+		-Use keypad scanning algorithm to track 3 digit code inputted from user
+		IF: user code == real code
+			-Increment inputCount by 1
+			IF: commandNum == number for type it
+				-set correctInput to true
+			END IF
+		END IF
+	//Checking "Twist-It"
+		-Compare current rotational angle of potentiometer to original angle
+		IF: current angle != original angle
+			-Increment inputCount by 1
+			IF: commandNum == number for twist it
+				-set correctInput to true
+			END IF
+		END IF
+	//Checking bop it
+		-Check if user has pressed button
+		IF: button was pressed
+			-Increment inputCount by 1
+			IF: commandNum == number for bop it
+				-set correctInput to 1
+			END IF
+		END IF
+	//Verify correctness
+	IF: correctInput == 1 AND inputCount == 1
+		-return true and user is correct
+	ELSE:
+		-return false
+	END IF
+-end checkInput()
+
+-updateHex(int scoreCounter)
+	-decodes scoreCounter into inputs for hex display
+	-proper pins are set to high and new score is displayed
+-end updateHex()
+
+-phaseSound(bool val)
+	IF: val == true
+		-Play true noise through speaker
+	ELSE:
+		-Play "Game Over" through speaker
+	END IF
+-end phaseSound()
+
+
+//---------------Main-------------------//
+int main() {
+	IF: New Game button is Pressed
+		-Call playIntro() to greet player and announce a new game is starting
+		DO:
+			-call commandGenerate() to randomly generate which command for user to execute and then display to user 
+			-Start a timer to gauge user response time
+			IF: timer == 3 seconds    //Possibly change later to decrese time as points increase
+				-call checkInput(commandNum) function to see what inputs were pressed
+				IF: true
+					-User was correct, incement scoreCounter
+					-Call updateHEx(scoreCounter) function to display score
+					-Call phaseSound(true) to play correct audio
+				ELSE:
+					-User was incorrect
+					-Call phaseSound(false) tpo play game over audio
+				END IF
+			END IF
+
+			IF: timer > 3 seconds
+				-call phaseSound(false) to play game over audio
+			END IF
+		WHILE PlayerInput is CORRECT
+	END IF
+
+}
+
+
+
+
+
+
+
+
+
