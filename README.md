@@ -6,4 +6,7 @@ Group members:
   * Zachary Kubitz
   * Joseph Tonecha
   
+Repository Contents:
+  * Pseudocode_V1.0
+  
 Proposal Link: https://zachkubitz.github.io/github-slideshow/
