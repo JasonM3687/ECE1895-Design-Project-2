@@ -1,0 +1,18 @@
+Future Tasks -- We can add to this list and also add these things to our kanban project as kanban cards
+
+Commit to tentative design of Bop It -- gameplay, 3 inputs, scoring notification, dimensions, etc
+Brainstorm hardware and software implementation -- PCB design, enclosure design, etc 
+Come up with and submit rough estimate of BOM (result from brainstorming hardware) 
+Come up with rough pseudocode (result from brainstorming software)
+Come up with PCB design of circuit in altium and submit -- will require more thought
+Order rough BOM and pickup parts from Benedum along with PCB
+Hardware and software Implementation -- PCB fabrication 
+Meet up in person for hardware implementation -- unpackaging, soldering, testing
+Share code and collaborate using GitHub
+Assess current state of Bop It -- testing
+Draft and order BOM for any additional needed parts
+Debug code for any errors
+Additional testing
+
+
+
