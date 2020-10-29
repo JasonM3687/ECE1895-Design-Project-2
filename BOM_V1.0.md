@@ -17,3 +17,8 @@ Helpful link for info about LCD Display: https://www.makerguides.com/character-l
 10k Potentiometer -- for tuning the contrast of the display
 For testing on breadboard it might be helpful to order 1x16 header pins to solder to LCD display and then easily connect to breadboard -- maybe
 
+Quantity	Link	Description	Pitt User ID	Unit Price	ExtendedPrice
+1	https://www.adafruit.com/product/1831	100k panel mount potentiometer	JTT33	$0.95 	$0.95 
+1	https://www.adafruit.com/product/2056	Solid Machined Metal Knob - 1" Diameter	JTT33	$3.95 	$3.95 
+
+
