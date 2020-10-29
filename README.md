@@ -9,5 +9,9 @@ Group members:
 Repository Contents:
   * Pseudocode_V1.0
   * BOM_V1.0
+  * Jam509_Adafruit_102820_BOM.csv
+  * Jam509_Amazon_102820_BOM.csv
+  * Type-it.pptx
+  * Tasks.txt
   
 Proposal Link: https://rb.gy/y2sitf
