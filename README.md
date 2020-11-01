@@ -13,5 +13,7 @@ Repository Contents:
   * Jam509_Amazon_102820_BOM.csv
   * Type-it.pptx
   * Tasks.txt
+  * Project2Code.ino
+  * Bop-It Audio Hardware Schematic.pdf
   
 Proposal Link: https://rb.gy/y2sitf
