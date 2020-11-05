@@ -7,7 +7,7 @@ void setup() {
 void loop() {
   //Play a note on pin 6 for 500 ms
   tone(6, 440, 500);
-  //Delay 3 seconds
+  //Wait 3 seconds
   delay(3000);
 
   //Play a note on digital pin 6 for 500 ms
