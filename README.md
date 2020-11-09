@@ -14,7 +14,6 @@ Repository Contents:
   * Type-it.pptx
   * Tasks.txt
   * Project2Code.ino
-  * Bop-It Audio Hardware Schematic.pdf
   * Type-It.SchDoc
   * 1x4 Keypad.SchLib
   * LCD.SchLib
