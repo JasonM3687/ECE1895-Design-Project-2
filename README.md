@@ -17,5 +17,6 @@ Repository Contents:
   * Type-It.SchDoc
   * 1x4 Keypad.SchLib
   * LCD.SchLib
+  * 3ToneAudio.ino
   
 Proposal Link: https://rb.gy/y2sitf
