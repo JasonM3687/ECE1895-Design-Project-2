@@ -1,7 +1,7 @@
 # ECE1895-Design-Project-2
 ECE 1985 Pitt Bop-it Design Project (Type-It)
 
-Group members:
+Group Delta members:
   * Jason Matuszak  
   * Zachary Kubitz
   * Joseph Tonecha
@@ -20,3 +20,4 @@ Repository Contents:
   * 3ToneAudio.ino
   
 Proposal Link: https://rb.gy/y2sitf
+Final Video Demonstration: https://mega.nz/file/mlEjWAAK#gWno9mr_SdH_s2Cn73Ivu6PHvdmbCm7DooVGt8ISdH8
