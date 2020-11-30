@@ -21,4 +21,6 @@ Repository Contents:
   
 Proposal Link: https://rb.gy/y2sitf
 
-Final Video Demonstration: https://mega.nz/file/mlEjWAAK#gWno9mr_SdH_s2Cn73Ivu6PHvdmbCm7DooVGt8ISdH8
+Final Video Demonstration (.mp4): https://mega.nz/file/mlEjWAAK#gWno9mr_SdH_s2Cn73Ivu6PHvdmbCm7DooVGt8ISdH8
+
+(.avi) : https://mega.nz/file/ColwCLxC#0qT2CPM0BgWHQ9R4tzCVKOz9DI_oqtUpCWDS_foY8m8
