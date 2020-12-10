@@ -7,8 +7,8 @@ Group Delta members:
   * Joseph Tonecha
   
 Repository Contents:
-  * Pseudocode_V1.0
-  * BOM_V1.0
+  * Pseudocode_V1.0.txt
+  * BOM_V1.0.md
   * Jam509_Adafruit_102820_BOM.csv
   * Jam509_Amazon_102820_BOM.csv
   * Type-it.pptx
@@ -18,6 +18,8 @@ Repository Contents:
   * 1x4 Keypad.SchLib
   * LCD.SchLib
   * 3ToneAudio.ino
+  * Type-it.PcbDoc
+  * inputoutoutinterfacing.ino
   
 Proposal Link: https://rb.gy/y2sitf
 
