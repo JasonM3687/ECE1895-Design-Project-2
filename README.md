@@ -20,6 +20,7 @@ Repository Contents:
   * 3ToneAudio.ino
   * Type-it.PcbDoc
   * inputoutoutinterfacing.ino
+  * Delta_BopIt_Report.pdf
   
 Proposal Link: https://rb.gy/y2sitf
 
