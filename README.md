@@ -24,11 +24,7 @@ Repository Contents:
   
 Proposal Link: https://rb.gy/y2sitf
 
-Final Video Demonstrations
-
-(.avi) : https://mega.nz/file/ColwCLxC#0qT2CPM0BgWHQ9R4tzCVKOz9DI_oqtUpCWDS_foY8m8
-
-HIGHER QUALITY DEMONSTRATION:
+Final Video Demonstration
 
 https://www.youtube.com/watch?v=VfUyPxHhu6M
 
